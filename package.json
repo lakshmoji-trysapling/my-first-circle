@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heug/my-first-circle.git"
+    "url": "git+https://github.com/lakshmoji-trysapling/my-first-circle.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heug/my-first-circle/issues"
+    "url": "https://github.com/lakshmoji-trysapling/my-first-circle/issues"
   },
-  "homepage": "https://github.com/heug/my-first-circle#readme"
+  "homepage": "https://github.com/lakshmoji-trysapling/my-first-circle#readme"
 }
